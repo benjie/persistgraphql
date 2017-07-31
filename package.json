@@ -1,6 +1,6 @@
 {
   "name": "@benjie/persistgraphql",
-  "version": "0.3.1",
+  "version": "0.3.2-alpha.1",
   "description": "A build tool for GraphQL projects.",
   "main": "lib/index.js",
   "scripts": {
