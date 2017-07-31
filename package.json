@@ -50,5 +50,13 @@
   "optionalDependencies": {
     "@types/graphql": "^0.9.0",
     "@types/isomorphic-fetch": "0.0.34"
-  }
+  },
+  "files": [
+    "bin",
+    "lib/index.js",
+    "lib/index.js.map",
+    "lib/index.d.ts",
+    "lib/src",
+    "typings.d.ts"
+  ]
 }
